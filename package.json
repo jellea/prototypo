@@ -27,9 +27,9 @@
     "jshint-stylish": "~0.1.3",
     "load-grunt-tasks": "~0.2.0",
     "time-grunt": "~0.2.1",
-
     "grunt-angular-templates": "~0.5.3",
-    "grunt-s3": "git+https://github.com/pifantastic/grunt-s3.git#2ad0edc4aab2e57058de5c0e13ac414f0be1c54a"
+    "grunt-s3": "git+https://github.com/pifantastic/grunt-s3.git#2ad0edc4aab2e57058de5c0e13ac414f0be1c54a",
+    "batch": "~0.5.0"
   },
   "engines": {
     "node": ">=0.10.0"
